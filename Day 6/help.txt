@@ -1,0 +1,16 @@
+a: hover {
+    display: block;  it shows another block inside that list.
+}
+#This is nested list.
+<ul> 
+    <li>Coffee</li>
+    <li>Tea
+        <ul>
+            <li>Black Tea</li>
+            <li>Milk Tea</li>
+        </ul>
+    <li>Milk</li>
+</ul>
+
+
+    
