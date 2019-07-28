@@ -1,0 +1,5 @@
+1. When we give position absolute then its z index comes to top i.e. it seem to be on top of other elements. elements below it moves little up
+upto which our current element taking space before applying position.
+2. When we give top and left also with position absolute, top and left will be taken from top left of whole screen.
+
+z-index gives us the 3d effect.
